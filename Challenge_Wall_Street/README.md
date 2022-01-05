@@ -1,5 +1,5 @@
 Overview of Project: Explain the purpose of this analysis.
-The purpose of this analysis was to help our fictional friend calculate stocks for his parents. They had been heavily invested in "DQ" since they met at Dairy Queen. We went through many different tickers to find things like return and volume. During this time we built two seperate codes and measured their performance against one another for the same results. Though we received many "MsgBoxes" we never could determine which version of the code was faster and will need assitance in refactoring this project again. 
+The purpose of this analysis was to help our fictional friend calculate stocks for his parents. They had been heavily invested in "DQ" since they met at Dairy Queen. We went through many different tickers to find things like ticker signs, returns, starting & ending prices, and volume. During this time we built two seperate codes and measured their performance against one another for the same results. Though we received many "MsgBoxes" we never could determine which version of the code was faster and will need assitance in refactoring this project again. 
 
 Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
