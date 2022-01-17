@@ -10,6 +10,7 @@ Results: Using images and examples of your code, compare the stock performance b
 **2017**
 
 ![This is an image](https://github.com/PDob02/stock-analysis/blob/main/Challenge_Wall_Street/Resources/2017.Analysis.png)
+
 **2018**
 
 ![This is an image](https://github.com/PDob02/stock-analysis/blob/main/Challenge_Wall_Street/Resources/2018.Analysis.png)
@@ -20,7 +21,7 @@ What are the advantages or disadvantages of refactoring code?
 
 There is a time savings to reusing code. It helps substitute in variables quicker and gives a basic outline of what the code should look like while looking for efficiencies along the way. This was shown by the efficiencies gained below:
 
-**Time Savings*** 
+**Time Savings** 
 
 ![This is an image](https://github.com/PDob02/stock-analysis/blob/main/Challenge_Wall_Street/Resources/Refactored.Code.2017.timing.png)
 
