@@ -1,12 +1,13 @@
-Overview of Project: Explain the purpose of this analysis.
+# Stock Analysis Using VBA
+####### **Overview of Project: Explain the purpose of this analysis.** 
 The purpose of this analysis was to help our fictional friend calculate stocks for his parents. His parents had been heavily invested in "DQ" since they met at Dairy Queen. We went through many different tickers to find things like ticker signs, returns, starting & ending prices, and volume. During this time we built two seperate codes and measured their performance against one another for the same results. Though we received many "MsgBoxes" we never could determine which version of the code was faster initially. After gaining the necessary assitance in refactoring this project again we were able to determine that the second code was faster. 
 
 The purpose of this analysis was to help our fictional friend calculate stocks for his parents. They had been heavily invested in "DQ" since they met at Dairy Queen. We went through many different tickers to find things like ticker signs, returns, starting & ending prices, and volume. During this time we built two seperate codes and measured their performance against one another for the same results. Though we received many "MsgBoxes" we never could determine which version of the code was faster and will need assitance in refactoring this project again. 
 
 Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
-
+**2017**
 ![This is an image](https://github.com/PDob02/stock-analysis/blob/main/Challenge_Wall_Street/Resources/2017.Analysis.png)
-
+**2018**
 ![This is an image](https://github.com/PDob02/stock-analysis/blob/main/Challenge_Wall_Street/Resources/2018.Analysis.png)
 
 Summary: In a summary statement, address the following questions.
@@ -15,6 +16,7 @@ What are the advantages or disadvantages of refactoring code?
 
 There is a time savings to reusing code. It helps substitute in variables quicker and gives a basic outline of what the code should look like while looking for efficiencies along the way. This was shown by the efficiencies gained below:
 
+**Time Savings*** 
 ![This is an image](https://github.com/PDob02/stock-analysis/blob/main/Challenge_Wall_Street/Resources/Refactored.Code.2017.timing.png)
 
 ![This is an image] (https://github.com/PDob02/stock-analysis/blob/165f06db5e1dd227690a680f09908e3e0015afd3/Challenge_Wall_Street/Resources/Refactored.Code.2017.timing.png)
