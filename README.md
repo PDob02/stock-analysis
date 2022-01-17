@@ -5,9 +5,9 @@ The purpose of this analysis was to help our fictional friend calculate stocks f
 
 Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-![This is an image] (https://github.com/PDob02/stock-analysis/blob/main/Challenge_Wall_Street/Resources/2017.Analysis.png)
+![This is an image](https://github.com/PDob02/stock-analysis/blob/main/Challenge_Wall_Street/Resources/2017.Analysis.png)
 
-![This is an image] (https://github.com/PDob02/stock-analysis/blob/main/Challenge_Wall_Street/Resources/2018.Analysis.png)
+![This is an image](https://github.com/PDob02/stock-analysis/blob/main/Challenge_Wall_Street/Resources/2018.Analysis.png)
 
 Summary: In a summary statement, address the following questions.
 
@@ -15,10 +15,13 @@ What are the advantages or disadvantages of refactoring code?
 
 There is a time savings to reusing code. It helps substitute in variables quicker and gives a basic outline of what the code should look like while looking for efficiencies along the way. This was shown by the efficiencies gained below:
 
+![This is an image](https://github.com/PDob02/stock-analysis/blob/main/Challenge_Wall_Street/Resources/Refactored.Code.2017.timing.png)
+
 ![This is an image] (https://github.com/PDob02/stock-analysis/blob/165f06db5e1dd227690a680f09908e3e0015afd3/Challenge_Wall_Street/Resources/Refactored.Code.2017.timing.png)
 &
 https://github.com/PDob02/stock-analysis/blob/36f313132b7aaf77c3788fbfaa6a154fdcb1fbc9/Challenge_Wall_Street/Resources/Refactored.Code.2018.timing.png 
 
+![This is an image](https://github.com/PDob02/stock-analysis/blob/main/Challenge_Wall_Street/Resources/Refactored.Code.2018.timing.png)
 ![This is an image] (https://github.com/PDob02/stock-analysis/blob/165f06db5e1dd227690a680f09908e3e0015afd3/Challenge_Wall_Street/Resources/Refactored.Code.2017.timing.png)
 &
 https://github.com/PDob02/stock-analysis/blob/36f313132b7aaf77c3788fbfaa6a154fdcb1fbc9/Challenge_Wall_Street/Resources/Refactored.Code.2018.timing.png 
