@@ -29,17 +29,13 @@ There is a time savings to reusing code. It helps substitute in variables quicke
 
 
 ![This is an image](https://github.com/PDob02/stock-analysis/blob/main/Challenge_Wall_Street/Resources/2018%20Code%20Timing%20All%20Stock%20Analysis.png)
-After refactoring
+
+**After refactoring**
+
 ![This is an image](https://github.com/PDob02/stock-analysis/blob/main/Challenge_Wall_Street/Resources/Refactored.Code.2017.timing.png)
 
-![This is an image] (https://github.com/PDob02/stock-analysis/blob/165f06db5e1dd227690a680f09908e3e0015afd3/Challenge_Wall_Street/Resources/Refactored.Code.2017.timing.png)
-&
-https://github.com/PDob02/stock-analysis/blob/36f313132b7aaf77c3788fbfaa6a154fdcb1fbc9/Challenge_Wall_Street/Resources/Refactored.Code.2018.timing.png 
 
 ![This is an image](https://github.com/PDob02/stock-analysis/blob/main/Challenge_Wall_Street/Resources/Refactored.Code.2018.timing.png)
-![This is an image] (https://github.com/PDob02/stock-analysis/blob/165f06db5e1dd227690a680f09908e3e0015afd3/Challenge_Wall_Street/Resources/Refactored.Code.2017.timing.png)
-&
-https://github.com/PDob02/stock-analysis/blob/36f313132b7aaf77c3788fbfaa6a154fdcb1fbc9/Challenge_Wall_Street/Resources/Refactored.Code.2018.timing.png 
 
 One of the disadvatnages of refactoring code is that comments get in the way. The intentions on the first project could have changed over time and it is hard to rememeber why things may have been commented that way. Also, if you did not fully understand the logic the first time committing the code and were instructed to commit it, it is likely you still do not understand it fully yet on your refactored code. Finally, the language we are using is VBA and it does not allow for multiple sheets and Macros on the same PC. This is a hindrance in gathering all the information that one may need in analsysis of the code. 
 
