@@ -23,6 +23,13 @@ There is a time savings to reusing code. It helps substitute in variables quicke
 
 **Time Savings** 
 
+**Prior to Refactoring**
+
+![This is an image](https://github.com/PDob02/stock-analysis/blob/main/Challenge_Wall_Street/Resources/2017%20Code%20Timing%20All%20Stocks%20Analysis.png)
+
+
+![This is an image](https://github.com/PDob02/stock-analysis/blob/main/Challenge_Wall_Street/Resources/2018%20Code%20Timing%20All%20Stock%20Analysis.png)
+After refactoring
 ![This is an image](https://github.com/PDob02/stock-analysis/blob/main/Challenge_Wall_Street/Resources/Refactored.Code.2017.timing.png)
 
 ![This is an image] (https://github.com/PDob02/stock-analysis/blob/165f06db5e1dd227690a680f09908e3e0015afd3/Challenge_Wall_Street/Resources/Refactored.Code.2017.timing.png)
